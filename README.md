@@ -7,6 +7,8 @@ Welcome to GenStack, an innovative AI-powered content generator that leverages t
 
 The link for the GenStack is **http://bit.ly/GenStack_TechSurf23**.
 
+**Note: Please Enter your Open AI API Key in _aicontent.py_ and _config.py_ as the API key entered is disabled due to privacy issues by OpenAI itself.**
+
 ![GenStack](https://github.com/vish-manit/GenStack-Techsurf-2023-/assets/124067731/5eec39a4-8836-4ab5-9e2f-ae5800dc228e)
 
 
