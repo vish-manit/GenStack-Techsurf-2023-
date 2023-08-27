@@ -1,14 +1,13 @@
 # GenStack: Your Own Content Creator
 
 
-
 # Introduction
 
 Welcome to GenStack, an innovative AI-powered content generator that leverages the capabilities of Flask and OpenAI's GPT-3 API. This cutting-edge platform empowers users to effortlessly produce captivating and dynamic content across various domains, from product descriptions to social media campaigns.
 
 The link for the GenStack is **http://bit.ly/GenStack_TechSurf23**.
 
-![Uploading GenStack.gif…]()
+![GenStack](https://github.com/vish-manit/GenStack-Techsurf-2023-/assets/124067731/5eec39a4-8836-4ab5-9e2f-ae5800dc228e)
 
 
 # Installations Required
