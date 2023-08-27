@@ -4,6 +4,19 @@
 
 Welcome to GenStack, an innovative AI-powered content generator that leverages the capabilities of Flask and OpenAI's GPT-3 API. This cutting-edge platform empowers users to effortlessly produce captivating and dynamic content across various domains, from product descriptions to social media campaigns.
 
+# Installations Required
+
+1. pip install openai
+2. pip install flask
+3. pip install pinecone-client
+   
+
+# Instructions for Testing the Model
+
+1. Download the whole GitHUb Repository as a zip file on your local machine.
+2. Open the folder with VS Code on your computer.
+3. Run the file named **app.py** and feel the power of GenStack.
+
 # Key Features
 
 **1. Dynamic Product Descriptions**
