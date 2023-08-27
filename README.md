@@ -1,15 +1,18 @@
-## GenStack: Your Own Content Creator
+# GenStack: Your Own Content Creator
 
 # Introduction
 
 Welcome to GenStack, an innovative AI-powered content generator that leverages the capabilities of Flask and OpenAI's GPT-3 API. This cutting-edge platform empowers users to effortlessly produce captivating and dynamic content across various domains, from product descriptions to social media campaigns.
+
+The link for the GenStack is **http://bit.ly/GenStack_TechSurf23**.
 
 # Installations Required
 
 1. pip install openai
 2. pip install flask
 3. pip install pinecone-client
-   
+4. pip install Flask-Session
+
 
 # Instructions for Testing the Model
 
@@ -59,9 +62,9 @@ Foster creativity on YouTube with AI-generated video topic ideas. Users can expl
 Enhance YouTube videos with compelling video descriptions. GenStack's AI generates descriptions that provide context, intrigue viewers, and enhance video visibility.
 
 
-# Future Possibilities
+# Future Advancements Possible
 
-GenStack's potential for growth and improvement is substantial:
+GenStack's potential for growth and improvement is substantial and some of them are listed below.
 
 
 **1. Multilingual Content Generation**
@@ -99,5 +102,6 @@ Develop templates optimized for specific industries, catering to unique content 
 
 Enable collaborative content creation, allowing users to co-create content and share AI-generated output within teams.
 
-
 GenStack is poised to revolutionize the content creation landscape, offering users a powerful tool to produce high-quality content seamlessly.
+
+**Last but not the least, due to some time constraints, there are some limitations to GenStack and all those can be accomplished if further time is alloted.**
