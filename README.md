@@ -102,6 +102,4 @@ Develop templates optimized for specific industries, catering to unique content 
 
 Enable collaborative content creation, allowing users to co-create content and share AI-generated output within teams.
 
-GenStack is poised to revolutionize the content creation landscape, offering users a powerful tool to produce high-quality content seamlessly.
-
 **Last but not the least, due to some time constraints, there are some limitations to GenStack and all those can be accomplished if further time is alloted.**
