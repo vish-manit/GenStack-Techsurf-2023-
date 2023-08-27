@@ -8,6 +8,9 @@ Welcome to GenStack, an innovative AI-powered content generator that leverages t
 
 The link for the GenStack is **http://bit.ly/GenStack_TechSurf23**.
 
+![Uploading GenStack.gif…]()
+
+
 # Installations Required
 
 1. pip install openai
