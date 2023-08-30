@@ -23,7 +23,7 @@ The link for the GenStack is **http://bit.ly/GenStack_TechSurf23**.
 # Instructions for Testing the Model
 
 1. Download the whole GitHUb Repository as a zip file on your local machine.
-2. Open the folder with VS Code on your computer.
+2. Open the folder with VS Code/any IDE on your computer.
 3. Run the file named **app.py** and feel the power of GenStack.
 
 # Key Features
